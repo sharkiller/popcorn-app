@@ -1,6 +1,6 @@
 ## 0.3.1
 
-# Features:
+### Features:
 
   - 6a1dfb0 [NEW] Added mirror failback to yify subtitles.
   - 2b2f249 [NEW] Add icons and links to about dialog
@@ -13,7 +13,7 @@
   - 37be4be [NEW] Draggable subtitles. Move subtitles around the player.
   - 17c62fb [NEW] Better init screen
 
-# Bugfixes:
+### Bugfixes:
 
   - 27a0849 [FIX] Subtitles encode fixes.
   - 7414a9a [FIX] Copy stream URL to clipboard directly. Press U.
